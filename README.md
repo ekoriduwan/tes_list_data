@@ -1,6 +1,9 @@
 # test_from_scratch
 
-A new Flutter project.
+Using: 
+- RefreshIndicator
+- Future Delayed
+- map into build widget
 
 ## Getting Started
 
